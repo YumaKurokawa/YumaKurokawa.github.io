@@ -7,7 +7,7 @@ author_profile: true
 Master's Program in Informatics, Graduate School of Comprehensive Human Sciences, University of Tsukuba.
 - [KASYS](https://kasys.slis.tsukuba.ac.jp/)
 
-B.S. in Knowledge and Library Information Science (KLIS), University of Tsukuba, March 2026.
+B.S. in Knowledge and Library Information Science (KLiS), University of Tsukuba, March 2026.
 
 ## Interests
 - Information Retrieval
@@ -23,6 +23,6 @@ B.S. in Knowledge and Library Information Science (KLIS), University of Tsukuba,
    Forum on Data Engineering and Information Management (DEIM 2026)
 
 2. **文書拡張プロンプト最適化に基づく同時更新文書検索**
-   Takusei Ito, <u>Yuma Kurokawa</u>, Makoto P. Kato, Sumio Fujita
+   Takumi Ito, <u>Yuma Kurokawa</u>, Makoto P. Kato, Sumio Fujita
    Forum on Data Engineering and Information Management (DEIM 2026)
    **[Recruit Co., Ltd. Award]**
