@@ -19,7 +19,7 @@ B.S. in Knowledge and Library Information Science (KLiS), University of Tsukuba,
 **Domestic Conference (Non-refereed)**
 
 1. **更新理由文に基づく更新対象文書の検索**
-   <u>Yuma Kurokawa</u>, Takusei Ito, Makoto P. Kato
+   <u>Yuma Kurokawa</u>, Takumi Ito, Makoto P. Kato
    Forum on Data Engineering and Information Management (DEIM 2026)
 
 2. **文書拡張プロンプト最適化に基づく同時更新文書検索**
