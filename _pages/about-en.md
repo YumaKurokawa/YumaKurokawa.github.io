@@ -26,3 +26,4 @@ B.S. in Knowledge and Library Information Science (KLIS), University of Tsukuba,
 2. **文書拡張プロンプト最適化に基づく同時更新文書検索**
    \*Takusei Ito, <u>Yuma Kurokawa</u>, Makoto P. Kato, Sumio Fujita
    Forum on Data Engineering and Information Management (DEIM 2026)
+   **[Recruit Co., Ltd. Award]**
