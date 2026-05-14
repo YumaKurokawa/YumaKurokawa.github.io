@@ -20,9 +20,9 @@ B.S. in Knowledge and Library Information Science (KLIS), University of Tsukuba,
 **Domestic Conference (Non-refereed)**
 
 1. **更新理由文に基づく更新対象文書の検索**
-   \*Yuma Kurokawa, Takusei Ito, Makoto P. Kato
-   DEIM 2026
+   \*<u>Yuma Kurokawa</u>, Takusei Ito, Makoto P. Kato
+   Forum on Data Engineering and Information Management (DEIM 2026)
 
 2. **文書拡張プロンプト最適化に基づく同時更新文書検索**
-   \*Takusei Ito, Yuma Kurokawa, Makoto P. Kato, Sumio Fujita
-   DEIM 2026
+   \*Takusei Ito, <u>Yuma Kurokawa</u>, Makoto P. Kato, Sumio Fujita
+   Forum on Data Engineering and Information Management (DEIM 2026)
