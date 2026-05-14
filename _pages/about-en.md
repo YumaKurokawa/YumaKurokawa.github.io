@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Master's Program in Informatics, Graduate School of Comprehensive Human Sciences, University of Tsukuba.
-- [Kato Lab](https://kasys.slis.tsukuba.ac.jp/)
+- [KASYS](https://kasys.slis.tsukuba.ac.jp/)
 
 B.S. in Knowledge and Library Information Science (KLIS), University of Tsukuba, March 2026.
 
