@@ -20,7 +20,7 @@ B.S. in Knowledge and Library Information Science (KLiS), University of Tsukuba,
 
 1. **ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval.**
    Takumi Ito, <u>Yuma Kurokawa</u>, Makoto P. Kato, Sumio Fujita.
-   CIKM 2026, Resource Track (Accepted).
+   CIKM 2026, Resource Track.
 
 **Domestic Conference (Non-refereed)**
 

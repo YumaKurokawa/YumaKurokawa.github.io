@@ -24,7 +24,7 @@ redirect_from:
 
 1. **ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval.**
    Takumi Ito, <u>Yuma Kurokawa</u>, Makoto P. Kato, Sumio Fujita.
-   CIKM 2026, Resource Track（採択）.
+   CIKM 2026, Resource Track.
 
 **国内会議（査読なし）**
 
