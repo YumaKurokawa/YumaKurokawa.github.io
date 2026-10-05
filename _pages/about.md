@@ -20,6 +20,12 @@ redirect_from:
 
 ## 研究業績
 
+**国際会議（査読あり）**
+
+1. **ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval.**
+   Takumi Ito, <u>Yuma Kurokawa</u>, Makoto P. Kato, Sumio Fujita.
+   CIKM 2026, Resource Track（採択）.
+
 **国内会議（査読なし）**
 
 1. **更新理由文に基づく更新対象文書の検索**

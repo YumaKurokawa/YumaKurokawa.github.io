@@ -16,6 +16,12 @@ B.S. in Knowledge and Library Information Science (KLiS), University of Tsukuba,
 
 ## Publications
 
+**International Conference (Refereed)**
+
+1. **ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval.**
+   Takumi Ito, <u>Yuma Kurokawa</u>, Makoto P. Kato, Sumio Fujita.
+   CIKM 2026, Resource Track (Accepted).
+
 **Domestic Conference (Non-refereed)**
 
 1. **更新理由文に基づく更新対象文書の検索**
